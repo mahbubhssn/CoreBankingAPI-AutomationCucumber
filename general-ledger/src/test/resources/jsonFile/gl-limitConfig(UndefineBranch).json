@@ -1,0 +1,10 @@
+[
+  {
+    "balanceLimit": 10000,
+    "branchId": null,
+    "currencyCode": "USD",
+    "generalLedgerAccountId": 1269,
+    "isMonthlyLimitAllowed": true,
+    "monthlyLimit": 1000
+  }
+]

@@ -1,0 +1,33 @@
+{
+
+  "demandDepositChargeCalculationInfo":
+  {
+    "demandDepositSlabChargeConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "chargeAmount":"20",
+    "minCharge":null,
+    "maxCharge":null
+  },
+
+  "demandDepositVatCalculationInfo":
+  {
+    "demandDepositSlabVatConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "vatAmount":null,
+    "minVat":null,
+    "maxVat":null
+  },
+
+  "defaultConfiguration":true,
+  "productId":102,
+  "productName":"Test three",
+  "chargeGl":"2010301010",
+  "vatGl":"1011013048",
+  "currencyCode":null,
+  "calculationCurrency":"BASE_CURRENCY",
+  "transactionCurrency":"BASE_CURRENCY",
+  "chargeInfoId":"26"
+
+}

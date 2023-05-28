@@ -1,0 +1,31 @@
+{
+  "demandDepositChargeCalculationInfo":
+  {
+    "demandDepositSlabChargeConfigs":[],
+    "slabBased":false,
+    "fixed":false,
+    "chargeAmount":"10",
+    "minCharge":"20",
+    "maxCharge":"30"
+  },
+
+  "demandDepositVatCalculationInfo":
+  {
+    "demandDepositSlabVatConfigs":[],
+    "slabBased":false,
+    "fixed":false,
+    "vatAmount":"5",
+    "minVat":"15",
+    "maxVat":"10"
+  },
+
+  "defaultConfiguration":true,
+  "productId":172,
+  "productName":"Test one",
+  "chargeGl":"2010301005",
+  "vatGl":"1086406025",
+  "currencyCode":null,
+  "calculationCurrency":"BASE_CURRENCY",
+  "transactionCurrency":"BASE_CURRENCY",
+  "chargeInfoId":"24"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AbabilNG Integration Test" verbose="1" parallel="tests" thread-count="1" configfailurepolicy="continue">
+    <test name="Customer Service Test" annotations="JDK" preserve-order="true">
+        <classes>
+            <class name="com.mislbd.ababil.integration.test.CucumberIntegrationTest" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,253 @@
+{
+  "id": 0,
+  "jsonType": "individual",
+  "firstName": "CIS-TCDependentFieldNullData",
+  "middleName": "Hossain",
+  "lastName": "Khan",
+  "fathersFirstName": "Jahangir",
+  "fathersMiddleName": "Hossain",
+  "fathersLastName": "Khan",
+  "mothersFirstName": "Salma",
+  "mothersMiddleName": "Hossain",
+  "mothersLastName": "Khan",
+  "maritalStatus": "MARRIED",
+  "spouseName": null,
+  "gender": "MALE",
+  "nationality": "Italy",
+  "dateOfBirth": "2001-01-03",
+  "occupations": [
+    {
+      "description": "Software Engineer",
+      "occupationTypeId": 4
+    }
+  ],
+  "monthlyIncome": "25000",
+  "classificationId": 3,
+  "birthCountryId": 1,
+  "birthPlaceId": 1,
+  "residenceStatus": "NON_RESIDENT",
+  "sourceOfFundDescription": "Salary",
+  "permanentAddressAsPresentChecker": false,
+  "profAddressAsPermanentChecker": false,
+  "profAddressAsPresentChecker": false,
+  "sourceOfFunds": [
+    {
+      "sourceId": 1,
+      "description": "Salary"
+    }
+  ],
+  "otherInformation": [
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 1,
+        "name": "Politically Exposed",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 2,
+        "name": "Influential Persons",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 3,
+        "name": "Chief executive or top level officials of any International Organization and their family member\r\n",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 4,
+        "name": "Similarity of the person (s)/ entity(ies) with Blacklisted person (s)/ entity (ies)",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": false,
+      "status": true
+    }
+  ],
+  "presentAddress": {
+    "addressLine": "GA-87",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 1,
+    "postCodeId": 0
+  },
+  "permanentAddress": {
+    "addressLine": "123 GreenVally",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "professionalAddress": {
+    "addressLine": "12/A, Sia Masjid",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 3,
+    "postCodeId": 0
+  },
+  "contactInformation": {
+    "phoneNumber": "9876543",
+    "mobileNumber": "01521109326",
+    "alternateMobileNumber": "01671321866",
+    "email": "mahbub.hossain@gmail.com",
+    "fax": "11223344556"
+  },
+  "otherBankAccountInformation": [
+    {
+      "accountNumber": "1234567890",
+      "bank": "Sonali Bank Ltd.",
+      "branch": "Gulshan Branch",
+      "otherBankAccountType": "DEPOSIT"
+    }
+  ],
+  "creditCardInformation": [
+    {
+      "creditCardNumber": "3456789012",
+      "bank": "Citi Bank",
+      "creditCardType": "INTERNATIONAL"
+    }
+  ],
+  "foreignerInformation": null,
+  "guardianId": null,
+  "relationWithGuardian": null,
+  "fatcaCisIndividualInformation": null,
+  "foreignAccountTaxComplianceActIds": [
+    2,
+    111,
+    222
+  ],
+  "documents": [
+    {
+      "id": 0,
+      "documentType": {
+        "id": 1,
+        "name": "TIN",
+        "mandatory": true,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties": [
+        {
+          "id": 0,
+          "propertyValue": "4567890123",
+          "documentPropertyType": {
+            "id": 4,
+            "propertyName": "TIN No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": [
+        {
+          "id": "346aaccb-14b8-4c53-8a7f-7bc9bbc9ab61",
+          "type": "JPG"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "documentType": {
+        "id": 4,
+        "name": "Passport",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties": [
+        {
+          "id": 0,
+          "propertyValue": "5678901234",
+          "documentPropertyType": {
+            "id": 8,
+            "propertyName": "Passport Number",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2018-11-25T00:00:00.000Z",
+          "documentPropertyType": {
+            "id": 9,
+            "propertyName": "Expiry Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    },
+    {
+      "id": 0,
+      "documentType": {
+        "id": 2,
+        "name": "NID",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties": [
+        {
+          "id": 0,
+          "propertyValue": "1234567890",
+          "documentPropertyType": {
+            "id": 5,
+            "propertyName": "NID No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2018-11-25T00:00:00.000Z",
+          "documentPropertyType": {
+            "id": 6,
+            "propertyName": "NID Issue Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    }
+  ]
+}

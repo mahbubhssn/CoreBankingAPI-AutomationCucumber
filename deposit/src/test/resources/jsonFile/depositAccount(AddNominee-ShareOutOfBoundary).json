@@ -1,0 +1,9 @@
+{
+  "accountId":"",
+  "individualId":400,
+  "nomineeRelationName": "Friend",
+  "otherRelationName": "Friend",
+  "guardianId":null,
+  "relationWithGuardian":null,
+  "sharePercentage":101
+}

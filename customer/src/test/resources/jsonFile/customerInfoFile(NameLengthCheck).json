@@ -1,0 +1,5 @@
+{
+  "name": "CIS-TC-NameLengthCheck-NameLengthShouldNotExceedFiftyCharacters",
+  "customerType": "INDIVIDUAL_SINGLE",
+  "relationshipOfficer": 1
+}

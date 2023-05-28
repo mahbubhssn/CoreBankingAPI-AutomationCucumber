@@ -1,0 +1,33 @@
+{
+
+  "demandDepositChargeCalculationInfo":
+  {
+    "demandDepositSlabChargeConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "chargeAmount":"10",
+    "minCharge":null,
+    "maxCharge":null
+  },
+
+  "demandDepositVatCalculationInfo":
+  {
+    "demandDepositSlabVatConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "vatAmount":"2",
+    "minVat":null,
+    "maxVat":null
+  },
+
+  "defaultConfiguration":true,
+  "productId":24,
+  "productName":"Mudaraba savings",
+  "chargeGl":"2010301010",
+  "vatGl":"1011013048",
+  "currencyCode":null,
+  "calculationCurrency":"BASE_CURRENCY",
+  "transactionCurrency":"BASE_CURRENCY",
+  "chargeInfoId":"24"
+
+}

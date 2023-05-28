@@ -1,0 +1,15 @@
+{
+  "id": 297,
+  "code": null,
+  "name": "Sub-GL Undefine Branch",
+  "branchId": null,
+  "currencyCode": "BDT",
+  "balance": null,
+  "blockAmount": null,
+  "status": "ACTIVATED",
+  "generalLedgerAccountId": 1268,
+  "isOnlineTxnAllowed": true,
+  "areAllBranchAllowed": false,
+  "isNegativeBalanceAllowed": false
+
+}

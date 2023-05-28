@@ -1,0 +1,243 @@
+{
+  "id": 0,
+  "jsonType": "individual",
+  "applicantTypeId": 3,
+  "firstName": "Reza",
+  "middleName": null,
+  "lastName": null,
+  "fathersFirstName": "Ibrahim",
+  "fathersMiddleName": null,
+  "fathersLastName": null,
+  "mothersFirstName": "Rokeya",
+  "mothersMiddleName": null,
+  "mothersLastName": null,
+  "gender": "MALE",
+  "nationality": "Bangladeshi",
+  "dateOfBirth": "2002-12-22",
+  "residenceStatus": "RESIDENT",
+  "birthCountryId": 1,
+  "birthPlaceId": 1,
+  "maritalStatus": "OTHERS",
+  "spouseName": null,
+  "contactInformation":
+  {
+    "phoneNumber": null,
+    "mobileNumber": "01819277275",
+    "alternateMobileNumber": null,
+    "email": null,
+    "fax": "029876543"
+  },
+  "presentAddress":
+  {
+    "addressLine": "H-12, R-7, S-7",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 1,
+    "postCodeId": 0
+  },
+  "permanentAddressAsPresentChecker": true,
+  "permanentAddress": {},
+  "profAddressAsPermanentChecker": false,
+  "profAddressAsPresentChecker": true,
+  "professionalAddress": {},
+  "classificationId": 3,
+  "monthlyIncome": "10000",
+  "sourceOfFunds":
+  [
+    {
+      "sourceId": 3,
+      "description": null
+    }
+  ],
+  "occupations":
+  [
+    {
+      "description": null,
+      "occupationTypeId": 2
+    }
+  ],
+  "otherBankAccountInformation": [],
+  "foreignerInformation": {},
+  "creditCardInformation": [],
+  "otherInformation":
+  [
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 1,
+        "name": "Politically Exposed",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 2,
+        "name": "Influential Persons",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 3,
+        "name": "Chief executive or top level officials of any International Organization and their family member\r\n",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 4,
+        "name": "Similarity of the person (s)/ entity(ies) with Blacklisted person (s)/ entity (ies)",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": false,
+      "status": true
+    }
+  ],
+  "foreignAccountTaxComplianceActIds": [],
+  "fatcaCisIndividualInformation": {},
+  "guardianId": 604,
+  "relationWithGuardian": "Brother",
+  "documents":
+  [
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 1,
+        "name": "TIN",
+        "mandatory": true,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": null,
+          "documentPropertyType":
+          {
+            "id": 4,
+            "propertyName": "TIN No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files":
+      [
+        {
+          "id": "346aaccb-14b8-4c53-8a7f-7bc9bbc9ab61",
+          "type": "JPG"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 4,
+        "name": "Passport",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": "5678901236",
+          "documentPropertyType": {
+            "id": 8,
+            "propertyName": "Passport Number",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2023-12-05",
+          "documentPropertyType":
+          {
+            "id": 9,
+            "propertyName": "Expiry Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    },
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 2,
+        "name": "NID",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": null,
+          "documentPropertyType":
+          {
+            "id": 5,
+            "propertyName": "NID No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": null,
+          "documentPropertyType":
+          {
+            "id": 6,
+            "propertyName": "NID Issue Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    }
+  ]
+}

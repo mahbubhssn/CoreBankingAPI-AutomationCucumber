@@ -1,0 +1,33 @@
+{
+
+  "demandDepositChargeCalculationInfo":
+  {
+    "demandDepositSlabChargeConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "chargeAmount":"12",
+    "minCharge":null,
+    "maxCharge":null
+  },
+
+  "demandDepositVatCalculationInfo":
+  {
+    "demandDepositSlabVatConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "vatAmount":"8",
+    "minVat":null,
+    "maxVat":null
+  },
+
+  "defaultConfiguration":true,
+  "productId":113,
+  "productName":"MSA-TRUE_INPUTSWITCH FULL DATA TC02(ALL CHECKBOX TRUE)",
+  "chargeGl":null,
+  "vatGl":"1011013048",
+  "currencyCode":null,
+  "calculationCurrency":"BASE_CURRENCY",
+  "transactionCurrency":"BASE_CURRENCY",
+  "chargeInfoId":"24"
+
+}

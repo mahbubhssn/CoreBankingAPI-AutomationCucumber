@@ -1,0 +1,22 @@
+{
+  "fromDate":"0000-00-00T00:00:00.000Z",
+  "description":"Full Data Profit Rate",
+  "endDate":"0000-00-00T00:00:00.000Z",
+  "slabApplicable":true,
+  "currencyCode":"USD",
+  "annualProvisionalRate":25,
+  "productProfitRateSlabs":[
+    {
+      "id":null,
+      "amountRangeFrom":20000,
+      "amountRangeTo":30000,
+      "annualProvisionalRate":25,
+      "fromTenor":0,
+      "toTenor":0,
+      "tenorType":null,
+      "psr": 0,
+      "weightage": 0
+    }
+  ],
+  "productId":0
+}

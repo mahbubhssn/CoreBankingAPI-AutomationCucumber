@@ -1,0 +1,96 @@
+{
+  "active":false,
+  "identityInformations":[],
+  "name":"MISL",
+  "jsonType":"organization",
+  "ownerTypeId":"136",
+  "sharePercentage": 101,
+  "id": 0,
+  "organizationTypeId":1,
+  "factoryAddress":
+  {
+    "addressLine":"123",
+    "countryId":1,
+    "divisionId":1,
+    "districtId":1,
+    "upazillaId":1,
+    "postCodeId":0
+  },
+  "businessAddress":
+  {
+    "addressLine":"123",
+    "countryId":1,
+    "divisionId":1,
+    "districtId":1,
+    "upazillaId":1,
+    "postCodeId":0
+  },
+  "registeredAddress":
+  {
+    "addressLine":"123",
+    "countryId":1,
+    "divisionId":1,
+    "districtId":1,
+    "upazillaId":1,
+    "postCodeId":0
+  },
+  "businessDetails":
+  {
+    "permanentManpower":null,
+    "contractualManpower":null,
+    "netWorth":123.34,
+    "yearlyTurnover":null,
+    "otherInformation":null,
+    "typeOfBusinesses":
+    [
+      {
+        "id": 2,
+        "name": "Solution",
+        "riskScore": 3
+      }
+    ],
+    "monthlyTurnover":112.33
+  },
+  "contactInformation":
+  {
+    "phoneNumber":null,
+    "mobileNumber":"12312312312",
+    "alternateMobileNumber":null,
+    "email":null,
+    "fax":null
+  },
+  "documents":
+  [
+    {
+      "id":0,
+      "documentType":
+      {
+        "id":3,
+        "name":"Trade Licence",
+        "mandatory":true,
+        "properties":null
+      },
+      "verified":false,
+      "verificationDetails":null,
+      "properties":
+      [
+        {
+          "id":0,
+          "propertyValue":null,
+          "documentPropertyType":
+          {
+            "id":7,
+            "propertyName":"License_number",
+            "mandatory":false,
+            "propertyDataType":"Text"
+          },
+          "propertyName":null
+        }
+      ],
+      "filePaths":null,
+      "profileCode":"100",
+      "clientId":null,
+      "files":[]
+    }
+  ]
+}

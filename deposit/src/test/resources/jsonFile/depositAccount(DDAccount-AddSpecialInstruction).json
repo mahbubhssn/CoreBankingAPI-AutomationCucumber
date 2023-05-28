@@ -1,0 +1,12 @@
+{
+  "specialInstructionType":
+  {
+    "id":4,
+    "code":"SI1220",
+    "name":"No Withdraw By Cheque",
+    "amountRelated":false,
+    "chequeRelated":false
+  },
+  "demandDepositAccountId":224,
+  "description":"No Withdraw By Cheque"
+}

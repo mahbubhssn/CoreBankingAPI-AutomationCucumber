@@ -1,0 +1,20 @@
+{
+  "borrowingRate": null,
+  "effectiveDate": "2019-11-30",
+  "expenseGeneralLedgerAccountId": 778,
+  "generalLedgerAccountId": 1268,
+  "id": 84,
+  "incomeGeneralLedgerAccountId": 742,
+  "isSlabApplicable": true,
+  "landingRate": null,
+  "productProfitRateSlabs": [
+    {
+      "amountRangeFrom": 1000,
+      "amountRangeTo": 10000,
+      "borrowingRate": 0.03,
+      "id": 62,
+      "landingRate": 0.04,
+      "profitRateId": 84
+    }
+  ]
+}

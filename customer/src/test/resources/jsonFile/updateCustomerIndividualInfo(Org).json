@@ -1,0 +1,97 @@
+{
+  "id": 0,
+  "jsonType": "organization",
+  "uuid": "",
+  "applicantType": null,
+  "active": false,
+  "name": "ABCD",
+  "organizationTypeId": 1,
+  "sourceOfFunds": [],
+  "documents": [
+    {
+      "id": 676,
+      "documentType": {
+        "id": 3,
+        "name": "Trade Licence",
+        "mandatory": true,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties": [
+        {
+          "id": 1127,
+          "propertyValue": "123",
+          "documentPropertyType": {
+            "id": 7,
+            "propertyName": "License_number",
+            "mandatory": false,
+            "propertyDataType": "Text"
+          },
+          "propertyName": "LICENSE_NUMBER"
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "100",
+      "clientId": "2DB7006D-4236-4D17-A221-509162480FD7",
+      "files": []
+    }
+  ],
+  "contactInformation": {
+    "phoneNumber": null,
+    "mobileNumber": "01671321866",
+    "alternateMobileNumber": null,
+    "email": null,
+    "fax": null
+  },
+  "businessAddress": {
+    "addressLine": "ABC",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "factoryAddress": {
+    "addressLine": "ABC",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "registeredAddress": {
+    "addressLine": "ABC",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "businessDetails": {
+    "typeOfBusinesses": [
+      {
+        "id": 1,
+        "name": "Security",
+        "riskScore": 3
+      },
+      {
+        "id": 2,
+        "name": "Solution",
+        "riskScore": 3
+      },
+      {
+        "id": 3,
+        "name": "Regular goods",
+        "riskScore": 3
+      }
+    ],
+    "typeOfProductAndService": null,
+    "permanentManpower": 0,
+    "contractualManpower": 0,
+    "yearlyTurnover": null,
+    "netWorth": 12345678901234567,
+    "otherInformation": null,
+    "monthlyTurnover": 12345678901234567
+  }
+}

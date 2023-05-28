@@ -1,0 +1,257 @@
+{
+  "id": 0,
+  "uuid": "",
+  "jsonType": "individual",
+  "firstName": "Anika",
+  "middleName": "Islam",
+  "lastName": "Khan",
+  "fathersFirstName": "Alamgir",
+  "fathersMiddleName": "Hossain",
+  "fathersLastName": "Khan",
+  "mothersFirstName": "Ayesha",
+  "mothersMiddleName": null,
+  "mothersLastName": "Islam",
+  "gender": "FEMALE",
+  "nationality": "Bangladeshi",
+  "dateOfBirth": "1995-11-22",
+  "residenceStatus": "RESIDENT",
+  "birthCountryId": 1,
+  "birthPlaceId": 1,
+  "maritalStatus": "MARRIED",
+  "spouseName": "Mahbub Khan",
+  "contactInformation":
+  {
+    "phoneNumber": "987654321",
+    "mobileNumber": "01923258139",
+    "alternateMobileNumber": null,
+    "email": null,
+    "fax": null
+  },
+  "presentAddress":
+  {
+    "addressLine": "123/A, Tongi",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 1,
+    "postCodeId": 0
+  },
+  "permanentAddressAsPresentChecker": true,
+  "permanentAddress": {},
+  "profAddressAsPermanentChecker": false,
+  "profAddressAsPresentChecker": false,
+  "professionalAddress":
+  {
+    "addressLine": "H-12, R-7, S-7",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 3,
+    "postCodeId": 0
+  },
+  "classificationId": 1,
+  "monthlyIncome": "100000",
+  "sourceOfFunds":
+  [
+    {
+      "sourceId": 15,
+      "description": "Share Market Profit"
+    }
+  ],
+  "occupations":
+  [
+    {
+      "description": "Software Engineer",
+      "occupationTypeId": 3
+    }
+  ],
+  "otherBankAccountInformation":
+  [
+    {
+      "accountNumber": "1234567899",
+      "bank": "City Bank",
+      "branch": "Uttara Branch",
+      "otherBankAccountType": "INVESTMENT"
+    }
+  ],
+  "foreignerInformation": null,
+  "creditCardInformation": [],
+  "otherInformation":
+  [
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 1,
+        "name": "Politically Exposed",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 2,
+        "name": "Influential Persons",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 3,
+        "name": "Chief executive or top level officials of any International Organization and their family member\r\n",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 4,
+        "name": "Similarity of the person (s)/ entity(ies) with Blacklisted person (s)/ entity (ies)",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": false,
+      "status": true
+    }
+  ],
+  "foreignAccountTaxComplianceActIds": [],
+  "fatcaCisIndividualInformation": {},
+  "documents":
+  [
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 1,
+        "name": "TIN",
+        "mandatory": true,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": "4567890124",
+          "documentPropertyType":
+          {
+            "id": 4,
+            "propertyName": "TIN No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files":
+      [
+        {
+          "id": "346aaccb-14b8-4c53-8a7f-7bc9bbc9ab61",
+          "type": "JPG"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 4,
+        "name": "Passport",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": null,
+          "documentPropertyType": {
+            "id": 8,
+            "propertyName": "Passport Number",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": null,
+          "documentPropertyType":
+          {
+            "id": 9,
+            "propertyName": "Expiry Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    },
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 2,
+        "name": "NID",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": "6789012345",
+          "documentPropertyType":
+          {
+            "id": 5,
+            "propertyName": "NID No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2015-11-25",
+          "documentPropertyType":
+          {
+            "id": 6,
+            "propertyName": "NID Issue Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    }
+  ]
+}

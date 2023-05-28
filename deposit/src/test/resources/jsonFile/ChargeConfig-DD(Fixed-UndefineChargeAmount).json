@@ -1,0 +1,33 @@
+{
+
+  "demandDepositChargeCalculationInfo":
+  {
+    "demandDepositSlabChargeConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "chargeAmount":null,
+    "minCharge":null,
+    "maxCharge":null
+  },
+
+  "demandDepositVatCalculationInfo":
+  {
+    "demandDepositSlabVatConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "vatAmount":"5",
+    "minVat":null,
+    "maxVat":null
+  },
+
+  "defaultConfiguration":true,
+  "productId":101,
+  "productName":"Test five",
+  "chargeGl":"2010301010",
+  "vatGl":"1011013048",
+  "currencyCode":null,
+  "calculationCurrency":"BASE_CURRENCY",
+  "transactionCurrency":"BASE_CURRENCY",
+  "chargeInfoId":"25"
+
+}

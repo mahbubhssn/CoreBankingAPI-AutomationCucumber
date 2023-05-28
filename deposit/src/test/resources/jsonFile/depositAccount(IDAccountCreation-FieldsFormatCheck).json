@@ -1,0 +1,37 @@
+{
+  "type":"RECURRING_DEPOSIT",
+  "productId":217,
+  "name":"TEST123(IDA-FieldsFormatCheck)",
+  "number":"0240380000044",
+  "currencyCode":"BDT",
+  "introducerAccountId":216,
+  "linkAccountId":null,
+  "purpose":"123",
+  "accountOpeningChannelId":null,
+  "relationshipManager":"123",
+  "tenor":null,
+  "instalmentAmount":null,
+  "pensionType":null,
+  "pensionPeriod":"",
+  "pensionPeriodType":null,
+  "branchId":7,
+  "customerId":342,
+  "tenorType":null,
+  "contactAddress":
+  {
+    "addressLine":"GA-87",
+    "countryId":1,
+    "divisionId":1,
+    "districtId":1,
+    "upazillaId":1,
+    "postCodeId":0
+  },
+  "contactInformation":
+  {
+    "phoneNumber":"1234ABC",
+    "mobileNumber":"1234ABC",
+    "alternateMobileNumber":"1234ABC",
+    "email":"1234ABC",
+    "fax":"1234ABC"
+  }
+}

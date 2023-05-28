@@ -1,0 +1,304 @@
+{
+  "id": 0,
+  "jsonType": "individual",
+  "firstName": "FirstNameLengthTestOverFIFTEEN",
+  "middleName": "MiddleNameLengthTestOverFIFTEEN",
+  "lastName": "LastNameLengthTestOverFIFTEEN",
+  "fathersFirstName": "Father'sFirstNameLengthTestOverFIFTEEN",
+  "fathersMiddleName": "Father'sMiddleNameLengthTestOverFIFTEEN",
+  "fathersLastName": "Father'sLastNameLengthTestOverFIFTEEN",
+  "mothersFirstName": "Mother'sFirstNameLengthTestOverFIFTEEN",
+  "mothersMiddleName": "Mother'sMiddleNameLengthTestOverFIFTEEN",
+  "mothersLastName": "Mother'sLastNameLengthTestOverFIFTEEN",
+  "maritalStatus": "UNMARRIED",
+  "gender": "MALE",
+  "nationality": "Bangladeshi",
+  "dateOfBirth": "2010-05-29",
+  "occupations": [
+    {
+      "description": "Software Engineer",
+      "occupationTypeId": 4
+    }
+  ],
+  "monthlyIncome": "25000",
+  "classificationId": 3,
+  "birthCountryId": 1,
+  "birthPlaceId": 1,
+  "residenceStatus": "NON_RESIDENT",
+  "sourceOfFundDescription": "Salary",
+  "permanentAddressAsPresentChecker": false,
+  "profAddressAsPermanentChecker": false,
+  "profAddressAsPresentChecker": false,
+  "sourceOfFunds": [
+    {
+      "sourceId": 1,
+      "description": "Salary"
+    }
+  ],
+  "spouseName": null,
+  "otherInformation": [
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 1,
+        "name": "Politically Exposed",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 2,
+        "name": "Influential Persons",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 3,
+        "name": "Chief executive or top level officials of any International Organization and their family member\r\n",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic": {
+        "id": 4,
+        "name": "Similarity of the person (s)/ entity(ies) with Blacklisted person (s)/ entity (ies)",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": false,
+      "status": true
+    }
+  ],
+  "presentAddress": {
+    "addressLine": "GA-87",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 1,
+    "postCodeId": 0
+  },
+  "permanentAddress": {
+    "addressLine": "123 GreenVally",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "professionalAddress": {
+    "addressLine": "12/A, Sia Masjid",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 3,
+    "postCodeId": 0
+  },
+  "contactInformation": {
+    "phoneNumber": "123456789012345",
+    "mobileNumber": "123456789012345",
+    "alternateMobileNumber": "123456789012345",
+    "email": "mahbub.hossain@gmail.com",
+    "fax": "12345678901234567"
+  },
+  "otherBankAccountInformation": [
+    {
+      "accountNumber": "12345678901234567890",
+      "bank": "Sonali Bank Ltd.",
+      "branch": "Gulshan Branch",
+      "otherBankAccountType": "DEPOSIT"
+    }
+  ],
+  "creditCardInformation": [
+    {
+      "creditCardNumber": "12345678901234567890",
+      "bank": "Citi Bank",
+      "creditCardType": "INTERNATIONAL"
+    }
+  ],
+  "foreignerInformation": {
+    "id": null,
+    "countryId": 2,
+    "foreignAddress": "9 Broadway, Suite 4, NY 10003",
+    "passportNumber": "123456789012345678901234567890",
+    "visaType": "WORK_PERMIT",
+    "visaValidity": "2020-11-20",
+    "workPermitObtained": true
+  },
+  "guardianId": 604,
+  "relationWithGuardian": "Brother",
+  "fatcaCisIndividualInformation": {
+    "hostBranchId": null,
+    "individualId": null,
+    "dateOfBirth": "2017-12-22",
+    "birthCountry": "IN",
+    "permanentResidenceOrGreenCardNo": "1234567890",
+    "fatcaId": 1,
+    "occupationId": 2,
+    "residentialAddress": {
+      "buildingIdentifier": "123 GreenVally",
+      "cityOrTown": "Queens",
+      "country": "IN",
+      "districtName": "Queens",
+      "floorIdentifier": "2nd Floor",
+      "poBoxNumber": "642 3450",
+      "postCode": "03828",
+      "stateOrProvince": "New York",
+      "street": "9 Broadway",
+      "suitIdentifier": "Suite 42D"
+    },
+    "passportAndVisaInfo": {
+      "expiryDateOfVisa": "2022-12-22",
+      "issuanceDateOfPassport": "2017-11-22",
+      "issuanceDateOfVisa": "2017-12-22",
+      "passportNumber": "31195855",
+      "placeOfIssue": "Queens City",
+      "visaIssuingAuthority": "US Department of State"
+    },
+    "usTinInformation": {
+      "adoptionTaxpayerIdentificationNumber": "1234567890",
+      "employerIdentificationNumber": "1234567890",
+      "individualTaxpayerIdentificationNumber": "1234567890",
+      "prepareTaxpayerIdentificationNumber": "1234567890",
+      "socialSecurityNumber": "1234567890"
+    },
+    "contactInformation": {
+      "phoneNumber": "(212) 696-5269",
+      "mobileNumber": "(917)494-4476",
+      "alternateMobileNumber": "(917)494-4560",
+      "email": "mahbub@gmail.com",
+      "fax": "(212) 696-5268"
+    },
+    "id": 0
+  },
+  "foreignAccountTaxComplianceActIds": [
+    2,
+    111,
+    222
+  ],
+  "documents": [
+    {
+      "id": 0,
+      "documentType": {
+        "id": 1,
+        "name": "TIN",
+        "mandatory": true,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties": [
+        {
+          "id": 0,
+          "propertyValue": "4567890123",
+          "documentPropertyType": {
+            "id": 4,
+            "propertyName": "TIN No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": [
+        {
+          "id": "346aaccb-14b8-4c53-8a7f-7bc9bbc9ab61",
+          "type": "JPG"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "documentType": {
+        "id": 4,
+        "name": "Passport",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties": [
+        {
+          "id": 0,
+          "propertyValue": "5678901234",
+          "documentPropertyType": {
+            "id": 8,
+            "propertyName": "Passport Number",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2018-11-25T00:00:00.000Z",
+          "documentPropertyType": {
+            "id": 9,
+            "propertyName": "Expiry Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    },
+    {
+      "id": 0,
+      "documentType": {
+        "id": 2,
+        "name": "NID",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties": [
+        {
+          "id": 0,
+          "propertyValue": "1234567890",
+          "documentPropertyType": {
+            "id": 5,
+            "propertyName": "NID No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2018-11-25T00:00:00.000Z",
+          "documentPropertyType": {
+            "id": 6,
+            "propertyName": "NID Issue Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    }
+  ]
+}

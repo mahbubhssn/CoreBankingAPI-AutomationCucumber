@@ -1,0 +1,11 @@
+{
+  "specialInstructionType": {
+    "id":12,
+    "code":"SI1309",
+    "name":"No Cash Deposit(online)",
+    "amountRelated":false,
+    "chequeRelated":false
+  },
+  "demandDepositAccountId":224,
+  "description":null
+}

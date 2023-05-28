@@ -1,0 +1,22 @@
+{
+  "fromDate":"0000-00-00T00:00:00.000Z",
+  "description":"Full Data Profit Rate",
+  "endDate":"0000-00-00T00:00:00.000Z",
+  "slabApplicable":true,
+  "currencyCode":"BDT",
+  "annualProvisionalRate":15,
+  "productProfitRateSlabs":[
+    {
+      "id":null,
+      "amountRangeFrom":30300,
+      "amountRangeTo":25500,
+      "annualProvisionalRate":15,
+      "fromTenor":0,
+      "toTenor":0,
+      "tenorType":null,
+      "psr": 0,
+      "weightage":0
+    }
+  ],
+  "productId":0
+}

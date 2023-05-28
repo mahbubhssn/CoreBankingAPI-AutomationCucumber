@@ -1,0 +1,32 @@
+{
+  "name":"IDP Six-Two-One",
+  "code":"621",
+  "description":"Installment Deposit Product",
+  "currencyRestriction":"MULTIPLE_CURRENCY",
+  "currencies":["BDT"],
+
+  "isInitialDepositAllowed":true,
+  "initialDeposit":null,
+  "isInstallmentFixed":true,
+  "installmentSizes":[3000],
+
+  "isProfitAppliedBeforeMaturity":true,
+  "profitPostingPeriod":"MONTHLY",
+  "profitPostingPeriodType":"AS_OF_ACCOUNT",
+  "isCompoundingBeforeMaturityAllowed":true,
+  "isWithdrawProfitBeforeMaturityAllowed":null,
+  "daysInYear":"THREE_HUNDREAD_SIXTY",
+  "isTenorRequired":true,
+  "tenorType":"DAYS",
+  "tenor":null,
+  "tenors":[180],
+  "isLienAllowed":true,
+  "lienPercentage":"60",
+  "noOfOverDueAllowed":"8",
+  "noOfOverDueAllowedBetweenSlab":"10",
+  "isPensionScheme":true,
+  "isAdvanceInstallAllowed":true,
+  "isCalculateProfitOnAdvance":true,
+  "isLinkAccountRequired":true
+
+}

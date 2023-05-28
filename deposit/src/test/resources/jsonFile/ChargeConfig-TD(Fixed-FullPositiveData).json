@@ -1,0 +1,34 @@
+{
+
+  "timeDepositChargeCalculationInfo":
+  {
+    "timeDepositSlabChargeConfigs":[],
+    "slabBased":false,
+    "fixed":true,
+    "chargeAmount":"20",
+    "minCharge":null,
+    "maxCharge":null
+
+  },
+
+  "timeDepositVatCalculationInfo":
+  {
+    "timeDepositSlabVatConfigs":[],
+    "slabBased":null,
+    "fixed":true,
+    "vatAmount":"5",
+    "minVat":null,
+    "maxVat":null
+  },
+
+  "defaultConfiguration":true,
+  "productId":52,
+  "productName":"MTDR testhh",
+  "chargeGl":"2010301005",
+  "vatGl":"1020307031",
+  "currencyCode":null,
+  "calculationCurrency":"BASE_CURRENCY",
+  "transactionCurrency":"BASE_CURRENCY",
+  "chargeInfoId":"6"
+
+}

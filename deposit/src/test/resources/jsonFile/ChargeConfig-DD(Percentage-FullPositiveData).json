@@ -1,0 +1,30 @@
+{
+  "demandDepositChargeCalculationInfo":
+  {
+    "demandDepositSlabChargeConfigs":[],
+    "slabBased":false,
+    "fixed":false,
+    "chargeAmount":"10",
+    "minCharge":"20",
+    "maxCharge":"30"
+  },
+
+  "demandDepositVatCalculationInfo":
+  {
+    "demandDepositSlabVatConfigs":[],
+    "slabBased":false,
+    "fixed":false,
+    "vatAmount":"5",
+    "minVat":"10",
+    "maxVat":"15"
+  },
+
+  "defaultConfiguration":true,
+  "productId":164,
+  "chargeGl":"2010301005",
+  "vatGl":"1086406025",
+  "currencyCode":null,
+  "calculationCurrency":"BASE_CURRENCY",
+  "transactionCurrency":"BASE_CURRENCY",
+  "chargeInfoId":"25"
+}

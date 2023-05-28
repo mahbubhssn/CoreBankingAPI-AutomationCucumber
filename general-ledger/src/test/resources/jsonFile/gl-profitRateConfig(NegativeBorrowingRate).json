@@ -1,0 +1,10 @@
+{
+  "borrowingRate": -0.05,
+  "effectiveDate": "2019-05-30",
+  "expenseGeneralLedgerAccountId": 778,
+  "generalLedgerAccountId": 1268,
+  "incomeGeneralLedgerAccountId": 742,
+  "isSlabApplicable": false,
+  "landingRate": 0.05,
+  "productProfitRateSlabs": []
+}

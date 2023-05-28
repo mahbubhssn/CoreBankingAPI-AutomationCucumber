@@ -1,0 +1,42 @@
+{
+  "id":0,
+  "type":"DEMAND_DEPOSIT",
+  "number":"0000000000000",
+  "name":"TEST-DDAccountUpdate",
+  "customerId":342,
+  "branchId":7,
+  "productId":0,
+  "introducerAccountId":216,
+  "purpose":"savings",
+  "accountOpeningChannelId":1,
+  "relationshipManager":"Delwar Hossain",
+  "status":"INACTIVE",
+  "customerStatus":null,
+  "openingDate":null,
+  "closingDate":null,
+  "contactInformation":
+  {
+    "phoneNumber":null,
+    "mobileNumber":"01521109326",
+    "alternateMobileNumber":"01671321866",
+    "email":null,
+    "fax":null
+  },
+  "contactAddress":
+  {
+    "addressLine":"GA-87",
+    "countryId":1,
+    "divisionId":1,
+    "districtId":1,
+    "upazillaId":1,
+    "postCodeId":0
+  },
+  "currencyCode":"BDT",
+  "freeze":false,
+  "accountSpecialProfitRate":null,
+  "enforceTransactionRule":true,
+  "overrideTransactionRuleByNotice":false,
+  "hasNotice":false,
+  "hasInstruction":false,
+  "balance":null
+}

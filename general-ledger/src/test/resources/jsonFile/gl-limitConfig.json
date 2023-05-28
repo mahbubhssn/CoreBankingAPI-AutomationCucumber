@@ -1,0 +1,13 @@
+[
+  {
+    "balanceLimit": 10000,
+    "branchId": 24,
+    "branchName": "Panthapath (FDD)",
+    "currencyCode": "USD",
+    "generalLedgerAccountId": 1268,
+    "isCreditAllowed": true,
+    "isDebitAllowed": true,
+    "isMonthlyLimitAllowed": true,
+    "monthlyLimit": 1000
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "fromDate":"0000-00-00T00:00:00.000Z",
+  "description":null,
+  "endDate":"0000-00-00T00:00:00.000Z",
+  "slabApplicable":false,
+  "currencyCode":"BDT",
+  "annualProvisionalRate":1,
+  "productProfitRateSlabs":
+  [
+    {
+      "id":null,
+      "amountRangeFrom":0,
+      "amountRangeTo":0,
+      "annualProvisionalRate":1,
+      "fromTenor":0,
+      "toTenor":0,
+      "tenorType":null,
+      "psr":0,
+      "weightage":0
+    }
+  ],
+  "productId":0
+}

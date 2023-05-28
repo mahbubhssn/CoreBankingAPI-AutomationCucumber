@@ -1,0 +1,38 @@
+{
+  "type":"RECURRING_DEPOSIT",
+  "id":261,
+  "productId":217,
+  "name":"TEST(IDAccountUpdate-UndefineMandatoryFields)",
+  "number":"0240380000036",
+  "currencyCode":"BDT",
+  "introducerAccountId":216,
+  "linkAccountId":null,
+  "purpose":"test-updated",
+  "accountOpeningChannelId":null,
+  "relationshipManager":"Delwar Hossain",
+  "tenor":null,
+  "instalmentAmount":null,
+  "pensionType":null,
+  "pensionPeriod":null,
+  "pensionPeriodType":null,
+  "branchId":7,
+  "customerId":342,
+  "tenorType":null,
+  "contactAddress":
+  {
+    "addressLine":"GA-87",
+    "countryId":1,
+    "divisionId":1,
+    "districtId":1,
+    "upazillaId":1,
+    "postCodeId":0
+  },
+  "contactInformation":
+  {
+    "phoneNumber":null,
+    "mobileNumber":null,
+    "alternateMobileNumber":null,
+    "email":null,
+    "fax":null
+  }
+}

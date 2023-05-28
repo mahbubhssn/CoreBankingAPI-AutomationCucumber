@@ -1,0 +1,10 @@
+[
+  {
+    "balanceLimit": null,
+    "branchId": 24,
+    "currencyCode": "BDT",
+    "generalLedgerAccountId": 1269,
+    "isMonthlyLimitAllowed": true,
+    "monthlyLimit": 1000
+  }
+]

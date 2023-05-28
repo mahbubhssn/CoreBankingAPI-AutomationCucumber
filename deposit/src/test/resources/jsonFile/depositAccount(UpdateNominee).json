@@ -1,0 +1,11 @@
+{
+  "id":0,
+  "individualId":616,
+  "sharePercentage":100,
+  "guardianId":null,
+  "accountId":0,
+  "relationWithGuardian":null,
+  "nomineeRelationName":"Other",
+  "otherRelationName":"Brother",
+  "minor":false
+}

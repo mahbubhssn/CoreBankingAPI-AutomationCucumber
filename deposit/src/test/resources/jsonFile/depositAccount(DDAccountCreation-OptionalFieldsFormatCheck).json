@@ -1,0 +1,29 @@
+{
+  "customerId":342,
+  "name":"TEST-DDAccountCreation-OptionalFieldsFormatCheck",
+  "productId":0,
+  "number":"0000000000000",
+  "currencyCode":"BDT",
+  "branchId":7,
+  "introducerAccountId":216,
+  "purpose":"123",
+  "accountOpeningChannelId":1,
+  "relationshipManager":"123",
+  "contactInformation":
+  {
+    "phoneNumber":"123456789012345ABC",
+    "mobileNumber":"123456789012345ABC",
+    "alternateMobileNumber":"123456789012345ABC",
+    "email":"emailFormatCheck",
+    "fax":"123456789012345ABC"
+  },
+  "contactAddress":
+  {
+    "addressLine":"GA-87",
+    "countryId":1,
+    "divisionId":1,
+    "districtId":1,
+    "upazillaId":1,
+    "postCodeId":0
+  }
+}

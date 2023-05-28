@@ -1,0 +1,265 @@
+{
+  "id": 0,
+  "jsonType": "individual",
+  "applicantTypeId": null,
+  "firstName": "Maruf",
+  "middleName": "Hossain",
+  "lastName": "Khan",
+  "fathersFirstName": "Zakir",
+  "fathersMiddleName": "Hossain",
+  "fathersLastName": "Khan",
+  "mothersFirstName": "Zamila",
+  "mothersMiddleName": null,
+  "mothersLastName": "Begum",
+  "gender": "OTHERS",
+  "nationality": "Italy",
+  "dateOfBirth": "1990-01-22",
+  "residenceStatus": "NON_RESIDENT",
+  "birthCountryId": 2,
+  "foreignBirthPlace": "Kolkata",
+  "maritalStatus": "WIDOW",
+  "spouseName": null,
+  "contactInformation":
+  {
+    "phoneNumber": null,
+    "mobileNumber": "01671321866",
+    "alternateMobileNumber": "01923258139",
+    "email": null,
+    "fax": null
+  },
+  "presentAddress":
+  {
+    "addressLine": "40/1, Dhanmondi",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "permanentAddressAsPresentChecker": false,
+  "permanentAddress":
+  {
+    "addressLine": "123/A, Salt Park",
+    "countryId": 2,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "profAddressAsPermanentChecker": false,
+  "profAddressAsPresentChecker": true,
+  "professionalAddress": {},
+  "classificationId": 2,
+  "monthlyIncome": "200000",
+  "sourceOfFunds":
+  [
+    {
+      "sourceId": 2,
+      "description": null
+    }
+  ],
+  "occupations":
+  [
+    {
+      "description": null,
+      "occupationTypeId": 2
+    }
+  ],
+  "otherBankAccountInformation": [],
+  "foreignerInformation":
+  {
+    "id": null,
+    "countryId": 2,
+    "foreignAddress": "123/A Salt Park, Alipore, Kolkata",
+    "passportNumber": "2345678909",
+    "visaType": "RESIDENT",
+    "visaValidity": "2022-10-02",
+    "workPermitObtained": false
+  },
+  "creditCardInformation":
+  [
+    {
+      "creditCardNumber": "3456789092",
+      "bank": "Asian Development Bank",
+      "creditCardType": "LOCAL"
+    }
+  ],
+  "otherInformation":
+  [
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 1,
+        "name": "Politically Exposed",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 2,
+        "name": "Influential Persons",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 3,
+        "name": "Chief executive or top level officials of any International Organization and their family member\r\n",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": true,
+      "status": true
+    },
+    {
+      "customerInterviewed": true,
+      "otherInformationTopic":
+      {
+        "id": 4,
+        "name": "Similarity of the person (s)/ entity(ies) with Blacklisted person (s)/ entity (ies)",
+        "seniorManagementPermissionRequired": true,
+        "interviewWithCustomerRequired": true
+      },
+      "permissionGranted": false,
+      "status": true
+    }
+  ],
+  "foreignAccountTaxComplianceActIds": [],
+  "fatcaCisIndividualInformation": {},
+  "documents":
+  [
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 1,
+        "name": "TIN",
+        "mandatory": true,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": "4567890125",
+          "documentPropertyType":
+          {
+            "id": 4,
+            "propertyName": "TIN No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files":
+      [
+        {
+          "id": "346aaccb-14b8-4c53-8a7f-7bc9bbc9ab61",
+          "type": "JPG"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 4,
+        "name": "Passport",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": "5678901235",
+          "documentPropertyType": {
+            "id": 8,
+            "propertyName": "Passport Number",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2020-02-20",
+          "documentPropertyType":
+          {
+            "id": 9,
+            "propertyName": "Expiry Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    },
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 2,
+        "name": "NID",
+        "mandatory": false,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": "6789012346",
+          "documentPropertyType":
+          {
+            "id": 5,
+            "propertyName": "NID No",
+            "mandatory": true,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        },
+        {
+          "id": 0,
+          "propertyValue": "2014-01-01",
+          "documentPropertyType":
+          {
+            "id": 6,
+            "propertyName": "NID Issue Date",
+            "mandatory": false,
+            "propertyDataType": "Date"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "101",
+      "clientId": null,
+      "files": []
+    }
+  ]
+}

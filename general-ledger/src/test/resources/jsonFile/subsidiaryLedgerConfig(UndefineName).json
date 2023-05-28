@@ -1,0 +1,13 @@
+{
+  "balance": null,
+  "blockAmount": null,
+  "branchId": 7,
+  "currencyCode": "BDT",
+  "areAllBranchAllowed": false,
+  "isNegativeBalanceAllowed": false,
+  "isOnlineTxnAllowed": true,
+  "lastTxnDateTime": null,
+  "name": null,
+  "status": null,
+  "generalLedgerAccountId": 1268
+}

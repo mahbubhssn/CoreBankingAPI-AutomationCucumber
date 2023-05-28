@@ -1,0 +1,13 @@
+{
+  "balance": null,
+  "blockAmount": null,
+  "branchId": null,
+  "currencyCode": "BDT",
+  "areAllBranchAllowed": false,
+  "isNegativeBalanceAllowed": false,
+  "isOnlineTxnAllowed": true,
+  "lastTxnDateTime": null,
+  "name": "Sub-GL Undefine Branch",
+  "status": null,
+  "generalLedgerAccountId": 1268
+}

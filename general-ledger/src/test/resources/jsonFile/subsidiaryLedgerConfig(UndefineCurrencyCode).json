@@ -1,0 +1,13 @@
+{
+  "balance": null,
+  "blockAmount": null,
+  "branchId": 7,
+  "currencyCode": null,
+  "areAllBranchAllowed": false,
+  "isNegativeBalanceAllowed": false,
+  "isOnlineTxnAllowed": true,
+  "lastTxnDateTime": null,
+  "name": "Sub-GL Undefine Currency Code",
+  "status": null,
+  "generalLedgerAccountId": 1268
+}

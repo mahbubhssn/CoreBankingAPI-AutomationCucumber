@@ -1,0 +1,5 @@
+{
+  "name": "CIS-TC-UndefineRelationshipOfficer",
+  "customerType": "INDIVIDUAL_SINGLE",
+  "relationshipOfficer": null
+}

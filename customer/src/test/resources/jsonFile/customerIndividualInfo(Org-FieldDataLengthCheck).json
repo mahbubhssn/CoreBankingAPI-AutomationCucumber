@@ -1,0 +1,93 @@
+{
+  "active": false,
+  "jsonType": "organization",
+  "identityInformations": [],
+  "name": "Test-FieldDataLengthCheck-Company Name should not exceed 50 characters",
+  "organizationTypeId": 1,
+  "contactInformation":
+  {
+    "phoneNumber": "987654321012345",
+    "mobileNumber": "015211093267890",
+    "alternateMobileNumber": "016713218667890",
+    "email": "millennium@mislbd.com",
+    "fax": "1122334455667788"
+  },
+  "businessDetails":
+  {
+    "permanentManpower": "100",
+    "contractualManpower": "20",
+    "netWorth": 1234567890123,
+    "monthlyTurnover": "12345678901234567",
+    "yearlyTurnover": null,
+    "otherInformation": "Private Company",
+    "typeOfBusinesses":
+    [
+      {
+        "id": 2,
+        "name": "Solution",
+        "riskScore": 3
+      }
+    ]
+  },
+  "businessAddress":
+  {
+    "addressLine": "49 Kawranbazar",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "factoryAddress":
+  {
+    "addressLine": "H-12, R-7, S-7",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "registeredAddress":
+  {
+    "addressLine": "12/A, Sia Masjid",
+    "countryId": 1,
+    "divisionId": 1,
+    "districtId": 1,
+    "upazillaId": 2,
+    "postCodeId": 0
+  },
+  "documents":
+  [
+    {
+      "id": 0,
+      "documentType":
+      {
+        "id": 3,
+        "name": "Trade Licence",
+        "mandatory": true,
+        "properties": null
+      },
+      "verified": false,
+      "verificationDetails": null,
+      "properties":
+      [
+        {
+          "id": 0,
+          "propertyValue": "678912345",
+          "documentPropertyType":
+          {
+            "id": 7,
+            "propertyName": "License_number",
+            "mandatory": false,
+            "propertyDataType": "Text"
+          },
+          "propertyName": null
+        }
+      ],
+      "filePaths": null,
+      "profileCode": "100",
+      "clientId": null,
+      "files": []
+    }
+  ]
+}

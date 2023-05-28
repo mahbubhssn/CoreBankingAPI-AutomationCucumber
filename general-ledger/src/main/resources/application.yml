@@ -1,0 +1,13 @@
+mislbd:
+  oauth:
+    baseUrl: http://192.168.1.140:30082
+    refreshTokenUrl: oauth/token
+    accesTokenUrl:
+    clientId: ngClient
+    secret: secret
+    userName: xomidar
+    password: x
+
+  resource:
+#    baseUrl: http://192.168.1.140:30080/ababil-general-ledger
+    baseUrl: http://localhost:8080/
